@@ -22,5 +22,8 @@
   "dependencies": {
     "@stripe/stripe-js": "^8.6.3",
     "stripe": "^20.2.0"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
